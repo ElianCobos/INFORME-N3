@@ -90,7 +90,7 @@
 ### 46. ¿Qué está mal con el circuito de la figura 6-86 si el medidor lee 5.55 mA?
 ### *48. Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas si hay un corto entre las puntas 2 y 4:
 ## 4. Video
-https://youtu.be/F2xRa_L-xvA
+https://youtu.be/4KUqreBimJg
 ## 5. Conclusiones
 #### -	En conclusion la ley de Ohm y las leyes de kirchhoff son parte fundamental en los ejercicios de los circuitos planteados ya sean en serie o en paralelo estos siempre estan presentes es por ello que se estudiar estas leyes de forma meticulosa ya que siempre estan en los ejercicios.
 #### -	Conocer los circuitos y ver cuales son los posibles fallos de este pueden ahorrar mucho tiempo y recursos es por eso que se necesita saber bien la resolucion de ejercicios de circuitos
